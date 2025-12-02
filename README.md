@@ -1,16 +1,26 @@
-## Hi there 👋
+# Merhaba, ben Revetis 👋
 
-<!--
-**revetis/revetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA mühendisi olarak yazılım dünyasında kaliteyi ön planda tutuyorum.  
+Backend ve frontend bilgimle hem geliştirme süreçlerine katkı sağlıyorum hem de test otomasyonları yapıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Teknolojiler ve Araçlar
+
+- **Backend:** Java, Spring Boot  
+- **Frontend:** React, JavaScript  
+- **Test Otomasyonu:** Selenium  
+- **Veritabanı:** MySQL, PostgreSQL  
+- **Araçlar:** Git, GitHub, Maven, IntelliJ IDEA
+
+---
+
+## 📈 Hakkımda
+
+- Temiz kod ve düzenli yapılar oluşturmayı önemsiyorum  
+- Test otomasyonu ile hataları erkenden yakalamayı seviyorum  
+- Hem backend hem frontend bilgisiyle QA süreçlerine katkı sağlıyorum
+
+---
+
+> Kod yazarken kaliteyi ve okunabilirliği ön planda tutarım.
