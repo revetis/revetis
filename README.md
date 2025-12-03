@@ -7,11 +7,10 @@ Backend ve frontend bilgimle hem geliştirme süreçlerine katkı sağlıyorum h
 
 ## 🛠 Teknolojiler ve Araçlar
 
-- **Backend:** Java, Spring Boot  
-- **Frontend:** React, JavaScript  
-- **Test Otomasyonu:** Selenium  
-- **Veritabanı:** MySQL, PostgreSQL  
-- **Araçlar:** Git, GitHub, Maven, IntelliJ IDEA
+- **Yazılım Dilleri:** Java, JavaScript
+- **FrameWorkler** Selenium + TestNG/JUnit + Spring Boot + React
+- **Veritabanı:** MySQL, PostgreSQL
+- **Araçlar:** Git, GitHub, Maven, IntelliJ IDEA, Visual Studio Code, Blender3D
 
 ---
 
