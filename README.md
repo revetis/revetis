@@ -1,25 +1,34 @@
 # Merhaba, ben Revetis 👋
 
-QA mühendisi olarak yazılım dünyasında kaliteyi ön planda tutuyorum.  
-Backend ve frontend bilgimle hem geliştirme süreçlerine katkı sağlıyorum hem de test otomasyonları yapıyorum.
+QA mühendisi olarak yazılımda kaliteyi merkeze alırım.  
+Backend ve frontend bilgimle geliştirme süreçlerine ve test otomasyonuna katkı sağlarım.
 
 ---
 
 ## 🛠 Teknolojiler ve Araçlar
 
-- **Yazılım Dilleri:** Java, JavaScript
-- **FrameWorkler** Selenium + TestNG/JUnit + Spring Boot
-- **Veritabanı:** MySQL, PostgreSQL
-- **Araçlar:** Git, GitHub, Maven, IntelliJ IDEA, Visual Studio Code, Blender3D, Postman
+- **Diller:** Java, JavaScript  
+- **Frameworkler:** Selenium, TestNG/JUnit, Spring Boot  
+- **Veritabanı:** MySQL, PostgreSQL  
+- **Araçlar:** Git, GitHub, Maven, IntelliJ IDEA, VS Code, Blender3D, Postman  
+
+---
+
+## 📘 Öğrendiklerim
+
+- Java & Spring Boot
+- Selenium ile test otomasyonu  
+- JUnit ve TestNG  
+- Temiz kod ve proje düzeni  
 
 ---
 
 ## 📈 Hakkımda
 
-- Temiz kod ve düzenli yapılar oluşturmayı önemsiyorum  
-- Test otomasyonu ile hataları erkenden yakalamayı seviyorum  
-- Hem backend hem frontend bilgisiyle QA süreçlerine katkı sağlıyorum
+- Basit, temiz ve düzenli kodu önemserim  
+- Hataları otomasyonla erken tespit etmeyi hedeflerim  
+- Backend–frontend bilgimi QA süreçlerinde kullanırım  
 
 ---
 
-> Kod yazarken kaliteyi ve okunabilirliği ön planda tutarım.
+> Kod yazarken kalite ve okunabilirlik benim için temeldir
