@@ -1,8 +1,4 @@
 # Merhaba, ben Revetis 👋
-
-QA mühendisi olarak yazılımda kaliteyi merkeze alırım.  
-Backend ve frontend bilgimle geliştirme süreçlerine ve test otomasyonuna katkı sağlarım.
-
 ---
 
 ## 🛠 Teknolojiler ve Araçlar
@@ -31,4 +27,4 @@ Backend ve frontend bilgimle geliştirme süreçlerine ve test otomasyonuna katk
 
 ---
 
-> Kod yazarken kalite ve okunabilirlik benim için temeldir
+> Iletisim icin samttre55@gmail.com
