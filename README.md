@@ -1,5 +1,4 @@
 # Merhaba, ben Revetis 👋
----
 
 ## 🛠 Teknolojiler ve Araçlar
 
