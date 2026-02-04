@@ -28,4 +28,4 @@ Test süreçlerimi profesyonel seviyeye taşımak ve CI/CD süreçlerine hakim o
 ### 📬 İletişim
 
 * **E-posta:** [samttre55@gmail.com](mailto:samttre55@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/samet-t%C3%BCre-2b4404362/]
+* **LinkedIn:** [Samet](https://www.linkedin.com/in/samet-t%C3%BCre-2b4404362/)
