@@ -8,9 +8,9 @@ Detail-oriented and solution-driven Test Automation Engineer with a strong passi
 ### 🛠️ Technical Skill Set
 
 * **Programming & Scripting:** Java, SQL, HTML, CSS
-* **Test Automation:** Selenium WebDriver, Appium (Mobile Automation), RestAssured (API Testing)
+* **Test Automation:** Selenium WebDriver, Appium (Mobile Automation), RestAssured (API Testing), JDBC
 * **Framework Design:** TestNG, JUnit, Cucumber (BDD / Behavior-Driven Development)
-* **CI/CD & Tools:** Git, GitHub, Jenkins, Postman, JDBC
+* **CI/CD & Tools:** Git, GitHub, Jenkins, Postman, 
 * **Database Management:** MySQL
 
 ---
